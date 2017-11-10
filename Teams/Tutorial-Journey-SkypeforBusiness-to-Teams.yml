@@ -1,7 +1,6 @@
 ### YamlMime:YamlDocument
 documentType: Tutorial
 title: Understand the journey from Skype for Business to Microsoft Teams
-
 metadata:
   title: Understand the journey from Skype for Business to Microsoft Teams
   description: Interactive tutorial to walk you through the journey from Skype for Business to Microsoft Teams
@@ -13,17 +12,12 @@ metadata:
   interactive: azurecli
 items:
 - durationInMinutes: 1
-    content: |
+  content: |
         In this training, we introduce the new intelligent communications vision and explain the future for Skype for Business and Teams. 
-    
-
-
-
 - title: Introduction
-    durationInMinutes: 1
-    content: |
+  durationInMinutes: 1
+  content: |
     This training is relevant to you if you are:
-
     - An IT Pro
 
     - Responsible for planning, deploying and/or managing Skype for Business for your own or a customer’s environment
@@ -48,28 +42,21 @@ items:
     Leave your feedback or answer any questions training in the Comments section at the bottom of this page.
     
     To give us your Teams product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
-
 - title: Introducing Intelligent Communications
-    durationInMinutes: 1
-    content: |
-        
+  durationInMinutes: 1
+  content: |
     At Microsoft Ignite 2017, Microsoft introduced the new vision for intelligent communications to transform calling and meeting experiences for people and organizations around the world. Intelligent communications goes beyond traditional unified communications, enabling customers to complete tasks more efficiently with minimal context switching, participate in more productive meetings that cover the entire meeting lifecycle, and better manage your everyday communications overload.
 
-    **Action**: Read the official blog announcement: A new vision for intelligent communications in Office 365
+    Action - Read the official blog announcement: A new vision for intelligent communications in Office 365
 
     To learn more: 
 
     Microsoft Ignite 2017 session: [Transform your communications with Microsoft Teams and Skype for Business](https://myignite.microsoft.com/videos/56548)  ([Slide Deck](https://onedrive.live.com/embed?resid=47E22AC086D61230%212116&authkey=%21AH-wWs1_I0jKYbY&em=2))
-    
-
-
-
-- durationInMinutes: 1
-    -title: What is Microsoft Teams?
-    content: |
-        Microsoft Teams is the Office collaboration hub for all teamwork related activities. It is built on existing Office 365 technologies like SharePoint, Exchange, OneDrive for Business and provides an extensibility platform to integrate third-party apps. This enables teams of users, inside and outside your organization, to discuss, meet and collaborate, while keeping all context – conversations, notes, and files – in a common location while providing Enterprise-grade security and compliance. 
-
-    **Action**: Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
+- title: What is Microsoft Teams?
+  durationInMinutes: 1
+  content: |
+    Microsoft Teams is the Office collaboration hub for all teamwork related activities. It is built on existing Office 365 technologies like SharePoint, Exchange, OneDrive for Business and provides an extensibility platform to integrate third-party apps. This enables teams of users, inside and outside your organization, to discuss, meet and collaborate, while keeping all context – conversations, notes, and files – in a common location while providing Enterprise-grade security and compliance. 
+    Action - Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
     - Chat, calls, and meetings for today's teams
     Communicate in the moment and keep everyone in the know. Stay connected with chat, calls, and meetings within your team and in private or small group conversations. Schedule and join online meetings with HD video, VoIP, and dial-in audio conferencing options. Share your files, apps or desktop in online meetings and review the important moments later with transcriptions of recorded content. Have a dedicated phone number for placing and receiving domestic and international phone calls, with advances features including voicemail, transfer, delegation and emergency calling.
 
@@ -81,48 +68,24 @@ items:
 
     - Enterprise security, compliance, and manageability
     Teams provides the enterprise-level security, compliance and management features you expect from Office 365, including broad support for compliance standards and eDiscovery and legal hold for channels, chats, and files. Microsoft Teams encrypts data at all times, at-rest and in-transit, and includes multi-factor authentication to enhance identity protection. On-call support engineering are standing by for back-up anytime.
-
-
-
-
-
-
-
-- durationInMinutes: 1
-    -title: The journey from Skype for Business to Teams
-    content: |
-    
+- title: The journey from Skype for Business to Teams
+  durationInMinutes: 1
+  content: |
     Here's what the journey to Teams looks like:
-
     - Teams will leverage a new Skype back-end infrastructure for enterprise-grade voice, video & meetings. This new, cloud-born architecture will allow Microsoft to deliver higher quality communication experiences and accelerate the speed of innovation.
-    
     - Teams becomes the core communications client for Office 365 customers, replacing the current Skype for Business client over time.
-
     - Skype for Business will remain the client for Skype for Business Server. Microsoft stays committed to Skype for Business Server; a new version of the server is targeted for release in the second half of the calendar year 2018.
-
     - If you still need Skype for Business Online, you can still purchase it and enable new users.
-
     While Microsoft Teams enables a lot of collaboration scenarios that Skype for Business cannot cover, Skype for Business still has some functionality around communication that Microsoft Teams does not yet provide. However, we published a roadmap that allows you to keep track of which features will be available when in Teams.
-    
     **Action**: Read the blog article about the Teams Roadmap, and review the roadmap: [Roadmap for Skype for Business capabilities coming to Microsoft Teams now available](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Roadmap-for-Skype-for-Business-capabilities-coming-to-Microsoft/bc-p/121452)
-
     While we would like customers to move to Teams as soon as possible, we understand that you want to see as many features that you know and love from Skype for Business available in Teams. However, even if not everything is available today, your organization can still realize business value by enabling Teams alongside Skype for Business. We recommend starting with a pilot for defined scenarios and rolling out Teams to selected users. Getting users familiar with Teams today, will help facilitate the transition to Teams once your organization is ready to upgrade.
-    
     We know that change takes time. From deployment lifecycles to resource planning to technical readiness, there is a lot to consider. In addition, Teams represents a shift in the ways users do their jobs, so organizational readiness, governance and user change management is just as crucial to implementing a successful upgrade to Teams. As you begin exploring your journey to Teams, be sure to include your Adoption/Change Manager in your planning activities. Aligning the roadmap with your technical requirements and organizational readiness, will help drive successful business outcomes.
-    
     This guidance will become more detailed over time, enabling you to determine the best time for your organization to make the move to Teams. We recommend reviewing the Microsoft Teams roadmap and visiting [www.skypeandteams.com](www.skypeandteams.com) on a regular basis to check for the latest guidance.
-
-
-
-
-
-- durationInMinutes: 1
-    -title: Prepare your current environment
-    content: |
-    
+- title: Prepare your current environment
+  durationInMinutes: 1
+  content: |
     ### Environmental readiness
     Skype for Business and Microsoft Teams both offer you real-time communication based on the same technology. The quality of your audio and video calls will directly impact user experience are both heavily relying on network quality. Any improvement you can make today to network quality for Skype for Business will directly benefit the quality users will experience on Microsoft Teams. Therefore, we highly recommend optimizing your network for Skype for Business to make your users (even more) happy today and have a great start on Microsoft Teams from day one.
-    
     ### Network readiness assessment
     
     You should perform a Network Readiness Assessment before implementing any real-time communications product such as Skype for Business or Teams and run it on a regular basis afterwards. If you had not conducted a network readiness assessment at all or in quite some time, you absolutely should do so before introducing Microsoft Teams.
@@ -156,31 +119,17 @@ items:
     ### Environmental dependencies
     
     As we've already mentioned, Teams leverages existing Office 365 infrastructure. Don't miss [Check your environment's readiness for Teams](environment-readiness.md) for environmental dependencies. 
-
-
-
-
-
-- durationInMinutes: 1
-    -title: Pilot Teams alongside Skype for Business
-    content: |
-    
+- title: Pilot Teams alongside Skype for Business
+  durationInMinutes: 1
+  content: |
     Once you've verified that your environment is ready to run Teams, you can start a Teams pilot. Skype for Business and Teams offer overlapping functionality – therefore it is important, to begin with a user pilot. The pilot is a small-scale deployment that enables you to validate the interoperability with Skype for Business in your environment as well as understand how your end users can maximize their productivity while minimizing confusion with both products running side-by-side. Piloting Teams side-by-side with Skype for Business gives you several benefits:
-    
-    - Your IT organization learns how to manage Teams
-    
-    - Your Change Management and Adoption teams confirm organizational readiness and validate resources and procedures needed on a larger scale prior to your organization-wide rollout
-    
-    - Your users get the benefits of Teams without losing the tools they're already familiar with
-
+     - Your IT organization learns how to manage Teams
+     - Your Change Management and Adoption teams confirm organizational readiness and validate resources and procedures needed on a larger scale prior to your organization-wide rollout
+     - Your users get the benefits of Teams without losing the tools they're already familiar with
     **Action**: [Pilot Teams alongside Skype for Business](pilot-essentials.md)
-
-
-
-- durationInMinutes: 1
-    -title: Learn more
-    content: |
-    
+- title: Learn more
+  durationInMinutes: 1
+  content: |
     [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
     [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
     
