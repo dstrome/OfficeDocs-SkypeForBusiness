@@ -16,8 +16,11 @@ items:
     content: |
     In this training, we introduce the new intelligent communications vision and explain the future for Skype for Business and Teams. 
     
-    - title: Introduction
-    - durationInMinutes: 1
+
+
+
+- title: Introduction
+    durationInMinutes: 1
     content: |
     This training is relevant to you if you are:
 
@@ -46,9 +49,8 @@ items:
     
     To give us your Teams product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
 
-
-- durationInMinutes: 1
-    -title: Introducing Intelligent Communications
+- title: Introducing Intelligent Communications
+    durationInMinutes: 1
     content: |
         
     At Microsoft Ignite 2017, Microsoft introduced the new vision for intelligent communications to transform calling and meeting experiences for people and organizations around the world. Intelligent communications goes beyond traditional unified communications, enabling customers to complete tasks more efficiently with minimal context switching, participate in more productive meetings that cover the entire meeting lifecycle, and better manage your everyday communications overload.
