@@ -118,14 +118,20 @@ items:
     
     ### Environmental dependencies
     
-    As we've already mentioned, Teams leverages existing Office 365 infrastructure. Don't miss [Check your environment's readiness for Teams](environment-readiness.md) for environmental dependencies. 
+    As we've already mentioned, Teams leverages existing Office 365 infrastructure. Don't miss [Check your environment's readiness for Teams](environment-readiness.md) to learn about the  environmental dependencies between Teams and Office 365. 
 - title: Pilot Teams alongside Skype for Business
   durationInMinutes: 1
   content: |
-    Once you've verified that your environment is ready to run Teams, you can start a Teams pilot. Skype for Business and Teams offer overlapping functionality – therefore it is important, to begin with a user pilot. The pilot is a small-scale deployment that enables you to validate the interoperability with Skype for Business in your environment as well as understand how your end users can maximize their productivity while minimizing confusion with both products running side-by-side. Piloting Teams side-by-side with Skype for Business gives you several benefits:
+    Once you've verified that your environment is ready to run Teams, you can start a Teams pilot. Skype for Business and Teams offer overlapping functionality – that's why it's helpful to start your journey with a pilot. 
+    
+    The pilot is a small-scale deployment that lets you validate the interoperability with Skype for Business in your environment as well as understand how your end users can maximize their productivity while minimizing confusion with both products running side-by-side. 
+    
+    Piloting Teams side-by-side with Skype for Business gives you several benefits:
+
      - Your IT organization learns how to manage Teams
      - Your Change Management and Adoption teams confirm organizational readiness and validate resources and procedures needed on a larger scale prior to your organization-wide rollout
      - Your users get the benefits of Teams without losing the tools they're already familiar with
+
     **Action**: [Pilot Teams alongside Skype for Business](pilot-essentials.md)
 - title: Learn more
   durationInMinutes: 1
