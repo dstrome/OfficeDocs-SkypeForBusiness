@@ -11,20 +11,14 @@ metadata:
   nextTutorialTitle: Title of next recommended tutorial
   displayType: one-column
   interactive: azurecli
-  author: LolaJacobsen
-  ms.author: lolaj
-  manager: lolaj
-  ms.date: 11/15/2017
-  ms.topic: article
-  ms.service: msteams
-  Set_Free_Tag: Strat_MT_TeamsAdmin
 items:
-
 - durationInMinutes: 1
     content: |
     In this training, we introduce the new intelligent communications vision and explain the future for Skype for Business and Teams. 
+    
     - title: Introduction
-    Markdown goes here.
+    - durationInMinutes: 1
+    content: |
     This training is relevant to you if you are:
 
     - An IT Pro
@@ -54,9 +48,9 @@ items:
 
 
 - durationInMinutes: 1
-    content: |
     -title: Introducing Intelligent Communications
-    
+    content: |
+        
     At Microsoft Ignite 2017, Microsoft introduced the new vision for intelligent communications to transform calling and meeting experiences for people and organizations around the world. Intelligent communications goes beyond traditional unified communications, enabling customers to complete tasks more efficiently with minimal context switching, participate in more productive meetings that cover the entire meeting lifecycle, and better manage your everyday communications overload.
 
     **Action**: Read the official blog announcement: A new vision for intelligent communications in Office 365
@@ -69,9 +63,9 @@ items:
 
 
 - durationInMinutes: 1
-    content: |
     -title: What is Microsoft Teams?
-    Microsoft Teams is the Office collaboration hub for all teamwork related activities. It is built on existing Office 365 technologies like SharePoint, Exchange, OneDrive for Business and provides an extensibility platform to integrate third-party apps. This enables teams of users, inside and outside your organization, to discuss, meet and collaborate, while keeping all context – conversations, notes, and files – in a common location while providing Enterprise-grade security and compliance. 
+    content: |
+        Microsoft Teams is the Office collaboration hub for all teamwork related activities. It is built on existing Office 365 technologies like SharePoint, Exchange, OneDrive for Business and provides an extensibility platform to integrate third-party apps. This enables teams of users, inside and outside your organization, to discuss, meet and collaborate, while keeping all context – conversations, notes, and files – in a common location while providing Enterprise-grade security and compliance. 
 
     **Action**: Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
     - Chat, calls, and meetings for today's teams
@@ -93,8 +87,9 @@ items:
 
 
 - durationInMinutes: 1
-    content: |
     -title: The journey from Skype for Business to Teams
+    content: |
+    
     Here's what the journey to Teams looks like:
 
     - Teams will leverage a new Skype back-end infrastructure for enterprise-grade voice, video & meetings. This new, cloud-born architecture will allow Microsoft to deliver higher quality communication experiences and accelerate the speed of innovation.
@@ -120,8 +115,9 @@ items:
 
 
 - durationInMinutes: 1
-    content: |
     -title: Prepare your current environment
+    content: |
+    
     ### Environmental readiness
     Skype for Business and Microsoft Teams both offer you real-time communication based on the same technology. The quality of your audio and video calls will directly impact user experience are both heavily relying on network quality. Any improvement you can make today to network quality for Skype for Business will directly benefit the quality users will experience on Microsoft Teams. Therefore, we highly recommend optimizing your network for Skype for Business to make your users (even more) happy today and have a great start on Microsoft Teams from day one.
     
@@ -137,7 +133,9 @@ items:
     
     Throughout your journey, we recommend the practical guidance you'll find in [My Advisor](http://aka.ms/myadvisor). My Advisor is a comprehensive, self-service guide and toolset for planning and managing Teams and Skype for Business Online for operational success. 
     
-    <embed video: https://www.youtube.com/watch?v=M7DGRx2Q-uM >
+        |  |  |
+        |---------|---------|
+        | Watch the My Advisor intro video   | <iframe width="350" height="200" src="https://www.youtube.com/watch?v=M7DGRx2Q-uM" frameborder="0" allowfullscreen></iframe>   |
     
     ### Quality assessment
     
@@ -162,8 +160,9 @@ items:
 
 
 - durationInMinutes: 1
-    content: |
     -title: Pilot Teams alongside Skype for Business
+    content: |
+    
     Once you've verified that your environment is ready to run Teams, you can start a Teams pilot. Skype for Business and Teams offer overlapping functionality – therefore it is important, to begin with a user pilot. The pilot is a small-scale deployment that enables you to validate the interoperability with Skype for Business in your environment as well as understand how your end users can maximize their productivity while minimizing confusion with both products running side-by-side. Piloting Teams side-by-side with Skype for Business gives you several benefits:
     
     - Your IT organization learns how to manage Teams
@@ -177,8 +176,9 @@ items:
 
 
 - durationInMinutes: 1
-    content: |
     -title: Learn more
+    content: |
+    
     [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
     [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
     
