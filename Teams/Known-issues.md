@@ -11,7 +11,6 @@ Set_Free_Tag: Strat_MT_TeamsAdmin
 ---
 
 # Known issues for Microsoft Teams
- [Microsoft Teams help](microsoft-teams-help.md) > [Desktop and web](microsoft-teams-help.md#BKMK_DesktopAndWeb) > Known issues for Microsoft Teams
 Updated: September 14, 2017 
   
 The following table lists the known issues for Microsoft Teams.
