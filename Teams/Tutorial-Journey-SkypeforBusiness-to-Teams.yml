@@ -14,10 +14,8 @@ items:
 - durationInMinutes: 1
   content: |
         In this training, we introduce the new intelligent communications vision and explain the future for Skype for Business and Teams. 
-- title: About this training
-  durationInMinutes: 1
-  content: |
-    This training is for you if you are:
+
+        This training is for you if you are:
     - An IT Pro
 
     - Responsible for planning, deploying and/or managing Skype for Business for your own or a customer’s environment
@@ -38,6 +36,8 @@ items:
 
     - Readiness: Running Skype for Business and Microsoft Teams side-by-side \(commin soon\)
 
+        
+
     If you have any questions or feedback about this training, please:
 
     - post in the Comments section at the bottom of the next 'next steps'
@@ -45,6 +45,11 @@ items:
     - email us at [askteams@microsoft.com](mailto:askteams@microsoft.com?subject=Tutorial-Journey)
     
     - To give us your Teams product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
+
+- title: About this training
+  durationInMinutes: 1
+  content: |
+
 - title: Introducing Intelligent Communications
   durationInMinutes: 1
   content: |
