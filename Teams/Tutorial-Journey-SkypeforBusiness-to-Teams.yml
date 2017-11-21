@@ -14,34 +14,7 @@ items:
 - durationInMinutes: 1
   content: |
         In this training, we introduce the new intelligent communications vision and explain the future for Skype for Business and Teams. 
-
-    This training is for you if you are:
-    - An IT Pro
-
-    - Responsible for planning, deploying and/or managing Skype for Business for your own or a customer’s environment
-
-    - Interested in understanding, how Teams can be introduced
-
-    We'll go into detail how these two products come together and explain what steps you can take today to prepare an existing Skype for Business environment for Teams. The key learnings of this learning exercise are:
-
-    - Understand the Intelligent communications vision
-
-    - Understand the journey from Skype for Business Online to Teams
-
-    - Understand what actions should be started today
-
-    We won't cover any technical details on how to enable Teams or how to run Skype for Business and Teams side by side. For this information, see the following:
-
-    - Microsoft Ignite 2017 session: [How to enable and configure Microsoft Teams for your users](https://myignite.microsoft.com/sessions/53318)
-
-    - Readiness: [Running Skype for Business and Microsoft Teams side-by-side](guidance-SkypeforBusiness.md)
-
-    
-    Leave your feedback or answer any questions training in the Comments section at the bottom of this page.
-    
-    To give us your Teams product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
-
-- title: About this training
+- title: Introduction
   durationInMinutes: 1
   content: |
     This training is for you if you are:
