@@ -58,7 +58,7 @@ items:
   content: |
     Microsoft Teams is the Office collaboration hub for all teamwork related activities. It is built on existing Office 365 technologies like SharePoint, Exchange, OneDrive for Business and provides an extensibility platform to integrate third-party apps. This enables teams of users, inside and outside your organization, to discuss, meet and collaborate, while keeping all context – conversations, notes, and files – in a common location while providing Enterprise-grade security and compliance. 
     
-    Action - Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
+    **Action:** Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
     
     - Chat, calls, and meetings for today's teams
     
@@ -86,7 +86,7 @@ items:
     
     While Microsoft Teams enables a lot of collaboration scenarios that Skype for Business cannot cover, Skype for Business still has some functionality around communication that Microsoft Teams does not yet provide. However, we published a roadmap that allows you to keep track of which features will be available when in Teams.
     
-    **Action**: Read the blog article about the Teams Roadmap, and review the roadmap: [Roadmap for Skype for Business capabilities coming to Microsoft Teams now available](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Roadmap-for-Skype-for-Business-capabilities-coming-to-Microsoft/bc-p/121452)
+    **Action:** Read the blog article about the Teams Roadmap, and review the roadmap: [Roadmap for Skype for Business capabilities coming to Microsoft Teams now available](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Roadmap-for-Skype-for-Business-capabilities-coming-to-Microsoft/bc-p/121452)
     
     While we would like customers to move to Teams as soon as possible, we understand that you want to see as many features that you know and love from Skype for Business available in Teams. However, even if not everything is available today, your organization can still realize business value by enabling Teams alongside Skype for Business. We recommend starting with a pilot for defined scenarios and rolling out Teams to selected users. Getting users familiar with Teams today, will help facilitate the transition to Teams once your organization is ready to upgrade.
     
@@ -108,7 +108,7 @@ items:
     
     Throughout your journey, we recommend the practical guidance you'll find in [My Advisor](http://aka.ms/myadvisor). My Advisor is a comprehensive, self-service guide and toolset for planning and managing Teams and Skype for Business Online for operational success. 
     
-    #### Watch the My Advisor intro video (3:13 minutes)
+    #### Watch the video "My Advisor intro" (3:30 minutes)
     > [!Video https://www.youtube.com/embed/M7DGRx2Q-uM]
 
     
@@ -134,6 +134,9 @@ items:
   content: |
     Once you've verified that your environment is ready to run Teams, you can start a Teams pilot. Skype for Business and Teams offer overlapping functionality – that's why it's helpful to start your journey with a pilot. 
     
+    #### Watch the video "Running a Teams Pilot" (3:30 minutes)
+    > [!Video https://www.youtube.com/embed/dnt7AcJGDfs]
+
     The pilot is a small-scale deployment that lets you validate the interoperability with Skype for Business in your environment as well as understand how your end users can maximize their productivity while minimizing confusion with both products running side-by-side. 
     
     Piloting Teams side-by-side with Skype for Business gives you several benefits:
@@ -142,7 +145,7 @@ items:
      - Your Change Management and Adoption teams confirm organizational readiness and validate resources and procedures needed on a larger scale prior to your organization-wide rollout
      - Your users get the benefits of Teams without losing the tools they're already familiar with
 
-    **Action**: [Pilot Teams alongside Skype for Business](pilot-essentials.md)
+    **Action:** Read [Pilot Teams alongside Skype for Business](pilot-essentials.md)
 - title: Learn more
   durationInMinutes: 1
   content: |
