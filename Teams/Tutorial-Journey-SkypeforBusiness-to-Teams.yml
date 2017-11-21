@@ -14,11 +14,8 @@ items:
 - durationInMinutes: 1
   content: |
         In this training, we introduce the new intelligent communications vision and explain the future for Skype for Business and Teams. 
-- title: Introduction
-  durationInMinutes: 1
-  content: |
     This training is for you if you are:
-    - An IT Pro!
+    - An IT Pro
 
     - Responsible for planning, deploying and/or managing Skype for Business for your own or a customer’s environment
 
@@ -106,7 +103,7 @@ items:
     
     Throughout your journey, we recommend the practical guidance you'll find in [My Advisor](http://aka.ms/myadvisor). My Advisor is a comprehensive, self-service guide and toolset for planning and managing Teams and Skype for Business Online for operational success. 
     
-    #### Watch the My Advisor intro video
+    #### Watch the My Advisor intro video (3:13 minutes)
     > [!Video https://www.youtube.com/embed/M7DGRx2Q-uM]
 
     
