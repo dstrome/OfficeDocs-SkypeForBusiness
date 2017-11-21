@@ -149,6 +149,13 @@ items:
 - title: Learn more
   durationInMinutes: 1
   content: |
+    Completing this training, you now understand the following key learnings:
+    -	Understand Intelligent communications vision
+    - Understand the journey from Skype for Business to Microsoft Teams
+    - Understand what actions should be started today
+
+    Action: Complete the quiz to test your knowledge: [Knowledge check](http://aka.ms/tr-journey-quiz)
+
     [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
     [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
     
