@@ -14,7 +14,7 @@ items:
 - durationInMinutes: 1
   content: |
         In this training, we introduce the new intelligent communications vision and explain the future for Skype for Business and Teams. 
-- title: Introduction
+- title: About this training
   durationInMinutes: 1
   content: |
     This training is for you if you are:
@@ -36,12 +36,15 @@ items:
 
     - Microsoft Ignite 2017 session: [How to enable and configure Microsoft Teams for your users](https://myignite.microsoft.com/sessions/53318)
 
-    - Readiness: [Running Skype for Business and Microsoft Teams side-by-side](guidance-SkypeforBusiness.md)
+    - Readiness: Running Skype for Business and Microsoft Teams side-by-side \(commin soon\)
 
+    If you have any questions or feedback about this training, please:
+
+    - post in the Comments section at the bottom of the next 'next steps'
     
-    Leave your feedback or answer any questions training in the Comments section at the bottom of this page.
+    - email us at [askteams@microsoft.com](mailto:askteams@microsoft.com?subject=Tutorial-Journey)
     
-    To give us your Teams product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
+    - To give us your Teams product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
 - title: Introducing Intelligent Communications
   durationInMinutes: 1
   content: |
