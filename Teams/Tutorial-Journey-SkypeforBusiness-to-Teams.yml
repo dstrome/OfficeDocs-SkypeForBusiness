@@ -60,21 +60,21 @@ items:
     
     **Action:** Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
     
-    - Chat, calls, and meetings for today's teams
+    ### Chat, calls, and meetings for today's teams
     
-      Communicate in the moment and keep everyone in the know. Stay connected with chat, calls, and meetings within your team and in private or small group conversations. Schedule and join online meetings with HD video, VoIP, and dial-in audio conferencing options. Share your files, apps or desktop in online meetings and review the important moments later with transcriptions of recorded content. Have a dedicated phone number for placing and receiving domestic and international phone calls, with advances features including voicemail, transfer, delegation and emergency calling.
+    Communicate in the moment and keep everyone in the know. Stay connected with chat, calls, and meetings within your team and in private or small group conversations. Schedule and join online meetings with HD video, VoIP, and dial-in audio conferencing options. Share your files, apps or desktop in online meetings and review the important moments later with transcriptions of recorded content. Have a dedicated phone number for placing and receiving domestic and international phone calls, with advances features including voicemail, transfer, delegation and emergency calling.
 
-    - Integrated Office 365 apps
+    ### Integrated Office 365 apps
     
-      Give your team built-in access to everything they need right in Office 365. Manage all your conversations, files, and tools in one team workspace. Enjoy instant access to SharePoint, OneNote, PowerBI, and Planner. Create and edit documents right in the app and include contextual conversations. Keep the team in the loop with email integration. Search across people, files, and chats with intelligence from Microsoft Graph.
+    Give your team built-in access to everything they need right in Office 365. Manage all your conversations, files, and tools in one team workspace. Enjoy instant access to SharePoint, OneNote, PowerBI, and Planner. Create and edit documents right in the app and include contextual conversations. Keep the team in the loop with email integration. Search across people, files, and chats with intelligence from Microsoft Graph.
 
-    - Customizable and extensible
+    ### Customizable and extensible
     
-      Tailor your Teams workspace to include key cloud services, explore data and get updates from the apps your teams use every day. Create custom channels based on work streams or topics. Pin commonly used files and websites for easy reference. Add Bots that work on your team’s behalf. Build custom integrations to your existing business processes with the Teams developer platform.
+    Tailor your Teams workspace to include key cloud services, explore data and get updates from the apps your teams use every day. Create custom channels based on work streams or topics. Pin commonly used files and websites for easy reference. Add Bots that work on your team’s behalf. Build custom integrations to your existing business processes with the Teams developer platform.
 
-    - Enterprise security, compliance, and manageability
+    ### Enterprise security, compliance, and manageability
     
-      Teams provides the enterprise-level security, compliance and management features you expect from Office 365, including broad support for compliance standards and eDiscovery and legal hold for channels, chats, and files. Microsoft Teams encrypts data at all times, at-rest and in-transit, and includes multi-factor authentication to enhance identity protection. On-call support engineering are standing by for back-up anytime.
+    Teams provides the enterprise-level security, compliance and management features you expect from Office 365, including broad support for compliance standards and eDiscovery and legal hold for channels, chats, and files. Microsoft Teams encrypts data at all times, at-rest and in-transit, and includes multi-factor authentication to enhance identity protection. On-call support engineering are standing by for back-up anytime.
 - title: The journey from Skype for Business to Teams
   durationInMinutes: 1
   content: |
@@ -154,8 +154,25 @@ items:
     - Understand the journey from Skype for Business to Microsoft Teams
     - Understand what actions should be started today
 
-    Action: Complete the quiz to test your knowledge: [Knowledge check](http://aka.ms/tr-journey-quiz)
+    **Action:** Complete the quiz to test your knowledge: [Knowledge check](http://aka.ms/tr-journey-quiz)
 
-    [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
-    [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
+    Aditional resources:
+    - [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
+    - [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
+
+    ### Call to action
+
+    1.	Visit [http://skypeandteams.com](http://skypeandteams.com) for the latest information on Skype for Business and Teams
+    2.	Sign-up for [MyAdvisor](http://aka.ms/myadvisor) for personalized deployment guidance
+    3.	Work on your Skype for Business quality now!
+    4.	Start you pilot on Microsoft Teams side-by-side to Skype for Business
+    5.	Any questions or feedback? Please let us know and send an email to askteams@microsoft.com (For product feedback, e.g. feature requests, please use User Voice)
+    6.  Let us know your feedback
+        - Post in the Comments section at the bottom of the next 'next steps'
+        - Email us at [askteams@microsoft.com](mailto:askteams@microsoft.com?subject=Tutorial-Journey)
+        - To give us your product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
+
+    
+
+    
     
