@@ -6,8 +6,7 @@ metadata:
   description: Interactive tutorial walks you through the journey from Skype for Business to Microsoft Teams.
   audience: IT Pro
   level: Intermediate
-  nextTutorialHref: http://aka.ms/SuccessWithTeams
-  nextTutorialTitle: Title of next recommended tutorial
+
   displayType: one-column
   interactive: azurecli
 items:
@@ -39,7 +38,7 @@ items:
 
         If you have any questions or feedback about this training, please:
 
-        - Post in the Comments section at the bottom of the next 'next steps'
+        - Post in the comments section at the bottom of the 'next steps' page of this tutorial
     
         - Email us at [askteams@microsoft.com](mailto:askteams@microsoft.com?subject=Tutorial-Journey)
     
@@ -168,7 +167,7 @@ items:
     4.	Start you pilot on Microsoft Teams side-by-side to Skype for Business
     5.	Any questions or feedback? Please let us know and send an email to askteams@microsoft.com (For product feedback, e.g. feature requests, please use User Voice)
     6.  Let us know your feedback
-        - Post in the Comments section at the bottom of the next 'next steps'
+        - Post in the comments section at the bottom of this page
         - Email us at [askteams@microsoft.com](mailto:askteams@microsoft.com?subject=Tutorial-Journey)
         - To give us your product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
 
