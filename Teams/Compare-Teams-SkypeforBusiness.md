@@ -1,16 +1,16 @@
 ---
-title: Compare Teams client features with Skype for Business
+title: Compare Skype for Business features with Teams
 author: James Birkinshaw 
 ms.author: jambirk
 manager: jambirk
 ms.date: 11/27/2017
 ms.topic: article
 ms.service: msteams
-description: Compare Teams client features with Skype for Business
+description: Compare Skype for Business features with Teams
 Set_Free_Tag: Strat_MT_TeamsAdmin
 ---
 
-Compare Teams client features with Skype for Business
+Compare Skype for Business features with Teams
 ==========================================================
 
 The following tables show the features that are available with each client that works with Skype for Business Server 2015 or Skype for Business Online. You may also want to refer to Mobile client comparison tables for Skype for Business. The Client Access License or User Subscription License your organization purchases will also have an impact on which features are available to your users. Whether you deploy the Full or Basic client to users depends on the license or plan your organization chooses to buy. See the Licensing Guide for more details.
@@ -22,7 +22,7 @@ This table covers the Enhanced Presence features that extend beyond a simple ind
 
 |Feature/capability | Skype for Business 2015 or 2016 client | Skype for Business on Mac | Teams client | 
 |  :---            |        :---:                           |  :---:                    |  :---:       | 
-|Publish status     |    &radic;                              | &radic; &dagger;                    | |
+|Publish status     |    &#x2713;                              | &radic; &dagger;                    | |
 |View status        | &radic;   | &radic; | |
 |View status notes and Out of Office messages | &radic; | &radic; | |
 |Add a custom location |   &radic;  |  | |
