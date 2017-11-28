@@ -128,17 +128,17 @@ items:
   durationInMinutes: 5
   content: |
 
-    In this tutorial, we didn't talk about how to enable Teams or how to run Skype for Business and Teams side by side. For this information, see the following:
+    Learn how to enable Teams or how to run Skype for Business and Teams side by side:
 
     - Microsoft Ignite 2017 session: [How to enable and configure Microsoft Teams for your users](https://myignite.microsoft.com/sessions/53318)
 
-    - Readiness: [Running Skype for Business and Microsoft Teams side-by-side](guidance-SkypeforBusiness.md)
+    - [Running Skype for Business and Microsoft Teams side-by-side](guidance-SkypeforBusiness.md)
 
     - [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
     
     - [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
 
-    
-    Leave your feedback or answer any questions training in the Comments section at the bottom of this page.
-    
-    To give us your Teams product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
+      To give us Teams product feedback or to request a new feature, go to [Teams UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
+
+      > [!TIP]
+      > Give us feedback about this training, or ask questions, in the **Comments** section at the bottom of this page.
