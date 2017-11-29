@@ -101,7 +101,7 @@ items:
     
     Throughout your journey, we recommend the practical guidance you'll find in [My Advisor](http://aka.ms/myadvisor). My Advisor is a comprehensive, self-service guide and toolset for planning and managing Teams and Skype for Business Online for operational success. 
     
-    #### Watch the My Advisor intro video
+    #### <span style="color:red">**Action**:</span> Watch the My Advisor intro video
     > [!Video https://www.youtube.com/embed/M7DGRx2Q-uM]
     
     ### Quality assessment
@@ -139,7 +139,7 @@ items:
   durationInMinutes: 5
   content: |
 
-    Learn more about running Skype for Business and Teams side by side:
+    <span style="color:red">**Next steps**:</span> Learn more about the journey from Skype for Business to Teams:
 
     - [Running Skype for Business and Microsoft Teams side-by-side](guidance-SkypeforBusiness.md)
 
