@@ -13,7 +13,11 @@ Set_Free_Tag: Strat_MT_TeamsAdmin
 Compare Skype for Business features with Teams
 ==========================================================
 
-The following tables show the features that are available with each client that works with Skype for Business Server 2015 or Skype for Business Online. You may also want to refer to Mobile client comparison tables for Skype for Business. The Client Access License or User Subscription License your organization purchases will also have an impact on which features are available to your users. Whether you deploy the Full or Basic client to users depends on the license or plan your organization chooses to buy. See the Licensing Guide for more details.
+The following tables show features that are available with clients homed on Skype for Business Server 2015 or Skype for Business Online, compared to the features available with Microsoft Teams. 
+
+  &#x2713 -- supported \
+  Blank  -- unsupported
+<!-- or &#x2717; for unsupported?  -->
 
 Enhanced Presence support
 --------------------------------------------------------------------------------
