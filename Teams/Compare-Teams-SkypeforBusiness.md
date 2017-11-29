@@ -1,6 +1,6 @@
 ---
 title: Compare Skype for Business features with Teams
-author: JamesBirkinshaw 
+author: jambirk 
 ms.author: jambirk
 manager: jambirk
 ms.date: 11/27/2017
