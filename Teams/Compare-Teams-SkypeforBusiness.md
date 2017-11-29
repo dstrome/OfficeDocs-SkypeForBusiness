@@ -15,8 +15,7 @@ Compare Skype for Business features with Teams
 
 The following tables show features that are available with clients homed on Skype for Business Server 2015 or Skype for Business Online, compared with the features available on Microsoft Teams. 
 
-  &#x2713 -- supported \
-  Blank  -- unsupported
+<!-- &#x2713 -- supported \  Blank  -- unsupported
 <!-- or &#x2717; for unsupported?  -->
 
 Enhanced Presence support
