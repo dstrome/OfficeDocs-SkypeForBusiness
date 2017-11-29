@@ -26,7 +26,7 @@ This table covers the Enhanced Presence features that extend beyond a simple ind
 
 |Feature/capability    | Skype for Business 2015 or 2016 client | Skype for Business on Mac | Teams client | 
 |  :---                |        :---:                           |  :---:                    |  :---:       | 
-|Publish status        |    &#x2713;                            | &#x2713; &dagger;         |              |
+|Publish status        |    <span style="color:green">&#x2713;</span>                            | &#x2713; &dagger;         |              |
 |View status           |    &#x2713;                            | &#x2713;                  |              |
 |View status notes and Out of Office messages | &#x2713;        | &#x2713;                  |              |
 |Add a custom location |    &#x2713;                            |                           |              |
