@@ -52,7 +52,7 @@ items:
   content: |
     Microsoft Teams is the Office 365 collaboration hub for all teamwork-related activities. It's built on existing Office 365 technologies, including SharePoint, Exchange, OneDrive for Business. Teams provides an extensibility platform so you can integrate third-party apps. This makes it possible for your teams, both inside and outside your organization, to discuss, meet, and collaborate, while keeping all context – conversations, notes, and files – in a common location. Teams provides enterprise-grade security and compliance. 
     
-    **Action**: Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
+    <span style="color:red">**Action**:</span> Complete the [interactive demo of Microsoft Teams](http://teamsdemo.office.com/).
 
     
     - **Chat, calls, and meetings for today's teams**
