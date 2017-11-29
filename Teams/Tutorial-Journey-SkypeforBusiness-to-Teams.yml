@@ -45,7 +45,8 @@ items:
 
     **Action**: Read Lori Wright's blog post, [A new vision for intelligent communications in Office 365](https://blogs.office.com/en-us/2017/09/25/a-new-vision-for-intelligent-communications-in-office-365/)
 
-    To learn more, watch the Microsoft Ignite 2017 session: [Transform your communications with Microsoft Teams and Skype for Business](https://myignite.microsoft.com/videos/56548)  ([Slide Deck](https://onedrive.live.com/embed?resid=47E22AC086D61230%212116&authkey=%21AH-wWs1_I0jKYbY&em=2))
+    ###To learn more
+    Watch the Microsoft Ignite 2017 session: [Transform your communications with Microsoft Teams and Skype for Business](https://myignite.microsoft.com/videos/56548)  ([Slide Deck](https://onedrive.live.com/embed?resid=47E22AC086D61230%212116&authkey=%21AH-wWs1_I0jKYbY&em=2))
 - title: What is Microsoft Teams?
   durationInMinutes: 3
   content: |
@@ -55,23 +56,19 @@ items:
 
     
     - **Chat, calls, and meetings for today's teams**
-    
-      Communicate in the moment and keep everyone in the know. Stay connected with chat, calls, and meetings within your team and in private or small group conversations. Schedule and join online meetings with HD video, VoIP, and dial-in audio conferencing options. Share your files, apps or desktop in online meetings and review the important moments later with transcriptions of recorded content. Have a dedicated phone number for placing and receiving domestic and international phone calls, with advanced features including voicemail, transfer, delegation, and emergency calling.
+          Communicate in the moment and keep everyone in the know. Stay connected with chat, calls, and meetings within your team and in private or small group conversations. Schedule and join online meetings with HD video, VoIP, and dial-in audio conferencing options. Share your files, apps or desktop in online meetings and review the important moments later with transcriptions of recorded content. Have a dedicated phone number for placing and receiving domestic and international phone calls, with advanced features including voicemail, transfer, delegation, and emergency calling.
 
     
     - **Integrated Office 365 apps**
-    
-      Give your team built-in access to everything they need right in Office 365. Manage all your conversations, files, and tools in one team workspace. Enjoy instant access to SharePoint, OneNote, PowerBI, and Planner. Create and edit documents right in the app and include contextual conversations. Keep the team in the loop with email integration. Search across people, files, and chats with intelligence from Microsoft Graph.
+          Give your team built-in access to everything they need right in Office 365. Manage all your conversations, files, and tools in one team workspace. Enjoy instant access to SharePoint, OneNote, PowerBI, and Planner. Create and edit documents right in the app and include contextual conversations. Keep the team in the loop with email integration. Search across people, files, and chats with intelligence from Microsoft Graph.
 
     
     - **Customizable and extensible**
-    
-      Tailor your Teams workspace to include key cloud services, explore data, and get updates from the apps your teams use every day. Create custom channels based on workstreams or topics. Pin commonly used files and websites for easy reference. Add bots that work on your team’s behalf. Build custom integrations with your existing business processes by using the Teams developer platform.
+          Tailor your Teams workspace to include key cloud services, explore data, and get updates from the apps your teams use every day. Create custom channels based on workstreams or topics. Pin commonly used files and websites for easy reference. Add bots that work on your team’s behalf. Build custom integrations with your existing business processes by using the Teams developer platform.
 
     
     - **Enterprise security, compliance, and manageability**
-    
-      Teams provides the enterprise-level security, compliance, and management features you expect from Office 365, including broad support for compliance standards and eDiscovery, and legal hold for channels, chats, and files. Teams encrypts data at all times, at-rest and in-transit, and includes multi-factor authentication to enhance identity protection. On-call support engineers are standing by any time you need support.
+          Teams provides the enterprise-level security, compliance, and management features you expect from Office 365, including broad support for compliance standards and eDiscovery, and legal hold for channels, chats, and files. Teams encrypts data at all times, at-rest and in-transit, and includes multi-factor authentication to enhance identity protection. On-call support engineers are standing by any time you need support.
 - title: The journey from Skype for Business to Teams
   durationInMinutes: 5
   content: |
