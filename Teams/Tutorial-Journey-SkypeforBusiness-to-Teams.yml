@@ -35,7 +35,8 @@ items:
 
         - Microsoft Ignite 2017 session: [How to enable and configure Microsoft Teams for your users](https://myignite.microsoft.com/sessions/53318)
 
-        - Readiness: Running Skype for Business and Microsoft Teams side-by-side \(commin soon\)
+        - Readiness: [Running Skype for Business and Microsoft Teams side-by-side](guidance-SkypeforBusiness.md) 
+        <-- (new content coming soon) -->
 
         If you have any questions or feedback about this training, please:
 
@@ -45,7 +46,7 @@ items:
     
         - To give us your product feedback, such as feature requests, go to [UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
 - title: Understand Intelligent Communications
-  durationInMinutes: 5
+  durationInMinutes: 4
   content: |
     At Microsoft Ignite 2017, Microsoft introduced a new vision for intelligent communications to transform calling and meeting experiences for people and organizations around the world. Intelligent communications goes beyond traditional unified communications, enabling customers to complete tasks more efficiently with minimal context switching, participate in more productive meetings that cover the entire meeting lifecycle, and better manage everyday communications overload.
 
@@ -54,7 +55,7 @@ items:
     ###To learn more
     Watch the Microsoft Ignite 2017 session: [Transform your communications with Microsoft Teams and Skype for Business](https://myignite.microsoft.com/videos/56548)  ([Slide Deck](https://onedrive.live.com/embed?resid=47E22AC086D61230%212116&authkey=%21AH-wWs1_I0jKYbY&em=2))
 - title: What is Microsoft Teams?
-  durationInMinutes: 3
+  durationInMinutes: 7
   content: |
     Microsoft Teams is the Office 365 collaboration hub for all teamwork-related activities. It's built on existing Office 365 technologies, including SharePoint, Exchange, OneDrive for Business. Teams provides an extensibility platform so you can integrate third-party apps. This makes it possible for your teams, both inside and outside your organization, to discuss, meet, and collaborate, while keeping all context – conversations, notes, and files – in a common location. Teams provides enterprise-grade security and compliance. 
     
@@ -73,7 +74,7 @@ items:
     ### Enterprise security, compliance, and manageability
     Teams provides the enterprise-level security, compliance, and management features you expect from Office 365, including broad support for compliance standards and eDiscovery, and legal hold for channels, chats, and files. Teams encrypts data at all times, at-rest and in-transit, and includes multi-factor authentication to enhance identity protection. On-call support engineers are standing by any time you need support.
 - title: The journey from Skype for Business to Teams
-  durationInMinutes: 5
+  durationInMinutes: 8
   content: |
     Here's what the journey to Teams looks like:
     - Teams will leverage a new Skype for Business back-end infrastructure for enterprise-grade voice, video, and meetings. This new, cloud-born architecture lets Microsoft deliver higher-quality communication experiences and accelerate the speed of innovation.
@@ -93,7 +94,7 @@ items:
     
     Another great resource is the [Skype for Busineses to Microsoft Teams Capabilities Roadmap](https://aka.ms/skype2teamsroadmap) - a downloadable PDF (in English only, at least for now) that gives Microsoft's current expectations about Skype for Business capabilities coming to Teams.
 - title: Prepare your current environment
-  durationInMinutes: 10
+  durationInMinutes: 6
   content: |
     ### Environmental readiness
     Skype for Business and Teams both offer you real-time communication based on the same technology. The quality of your audio and video calls will directly impact user experience are both heavily relying on network quality. Any improvement you can make today to network quality for Skype for Business will directly benefit the quality users will experience on Teams. Therefore, we highly recommend optimizing your network for Skype for Business to make your users (even more) happy today and give them a great start on Teams from day one.
@@ -107,7 +108,7 @@ items:
     
     Throughout your journey, we recommend the practical guidance you'll find in [My Advisor](http://aka.ms/myadvisor). My Advisor is a comprehensive, self-service guide and toolset for planning and managing Teams and Skype for Business Online for operational success. 
     
-    #### <span style="color:red">**Action**:</span> Watch the My Advisor intro video
+    #### <span style="color:red">**Action**:</span> Watch the My Advisor intro video (3:30 minutes)
     > [!Video https://www.youtube.com/embed/M7DGRx2Q-uM]
     
     ### Quality assessment
@@ -128,7 +129,7 @@ items:
     
     As we've already mentioned, Teams leverages existing Office 365 infrastructure. Don't miss [Check your environment's readiness for Teams](environment-readiness.md) to learn about the  environmental dependencies between Teams and Office 365. 
 - title: Pilot Teams alongside Skype for Business
-  durationInMinutes: 3
+  durationInMinutes: 12
   content: |
     Once you've verified that your environment is ready to run Teams, you can start a Teams pilot. Skype for Business and Teams offer overlapping functionality – that's why it's helpful to start your journey with a pilot. 
     
@@ -141,18 +142,28 @@ items:
      - Your users get the benefits of Teams without losing the tools they're already familiar with
 
     <span style="color:red">**Action**:</span> [Pilot Teams alongside Skype for Business](pilot-essentials.md)
-- title: Find out more about the journey to Teams
-  durationInMinutes: 5
+- title: Learn more
+  durationInMinutes: 3
   content: |
+    We covered the following key learnings in this training:
+    -	Understand Intelligent communications vision
+    - Understand the journey from Skype for Business to Microsoft Teams
+    - Understand what actions should be started today
 
-    <span style="color:red">**Next steps**:</span> Learn more about the journey from Skype for Business to Teams:
+    <span style="color:red">**Action**:</span> Complete the quiz to test your knowledge: [Knowledge check](http://aka.ms/tr-journey-quiz)
 
+    ### To learn more
+    - [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
+    - [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
     - [Running Skype for Business and Microsoft Teams side-by-side](guidance-SkypeforBusiness.md)
 
-    - [FAQ - Skype for Business & Teams vision](FAQ-journey.md)
-    
-    - [Journey from Skype for Business to Teams](Journey-SkypeforBusiness-Teams.md)
+    ### <span style="color:red">**Next steps**:</span>
 
-    To give us Teams product feedback or to request a new feature, go to [Teams UserVoice](https://microsoftteams.uservoice.com/forums/555103-public).
-    > [!TIP]
-    > Give us feedback about this training, or ask questions, in the **Comments** section at the bottom of this page.
+    1.	Visit [http://SkypeandTeams.com](http://skypeandteams.com) for the latest information on Skype for Business and Teams
+    2.	Sign-up for [MyAdvisor](http://aka.ms/myadvisor) for personalized deployment guidance
+    3.	[Optimize your current Skype for Business environment for Teams](https://docs.microsoft.com/MicrosoftTeams/prepare-teams)
+    4.	Begin to [Pilot Teams alongside Skype for Business](https://docs.microsoft.com/MicrosoftTeams/pilot-essentials)
+    5.  Send us feedback
+        - Give us feedback, or ask questions, about this training in the **Comments** section at the bottom of this page
+        - Email us at [AskTeams@Microsoft.com](mailto:askteams@microsoft.com?subject=Tutorial-Journey)
+        - To give us Teams product feedback or to request a new feature, go to [Teams UserVoice](https://microsoftteams.uservoice.com/forums/555103-public)
