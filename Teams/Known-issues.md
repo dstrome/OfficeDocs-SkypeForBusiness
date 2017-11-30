@@ -11,6 +11,10 @@ Set_Free_Tag: Strat_MT_TeamsAdmin
 ---
 
 # Known issues for Microsoft Teams
+<<<<<<< HEAD
+Updated: September 14, 2017 
+=======
+>>>>>>> master
   
 The following table lists the known issues for Microsoft Teams.
 ## 
