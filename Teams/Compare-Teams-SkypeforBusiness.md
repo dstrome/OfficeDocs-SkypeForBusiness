@@ -25,7 +25,7 @@ This table covers the Enhanced Presence features that extend beyond a simple ind
 
 |Feature/capability    | Skype for Business 2015 or 2016 client | Skype for Business on Mac | Teams client | 
 |  :---                |        :---:                           |  :---:                    |  :---:       | 
-|Publish status        |    &#x2713;                           | &#x2713; &dagger;         |              |
+|Publish status        |    &#x2713;                            | &#x2713; &dagger;         |              |
 |View status           |    &#x2713;                            | &#x2713;                  |              |
 |View status notes and Out of Office messages | &#x2713;        | &#x2713;                  |              |
 |Add a custom location |    &#x2713;                            |                           |              |
@@ -53,11 +53,11 @@ This table covers the features relating to managing IM and Presence contacts.
 |Display recent contacts group|&#x2713;                      |                           |              |
 |Display current conversations group| &#x2713;               | &#x2713;                  |              |
 |Display alternate contact views (for example, tile)| &#x2713; | &#x2713;                |              |
-|Sort contacts by Group, Relationship, or New (people who’ve added you to their Contacts list)| &#x2713; |  |   |
+|Sort contacts by Group, Relationship, or New &dagger;| &#x2713; |                       |              |
 |Sort by group|&#x2713;                                      |                           |              |
 |Sort contacts by Status (availability)|             &#x2713;|                           |              |
 |Search and add Exchange contacts| &#x2713;                  |                           |              |
- 
+ &dagger; New people who’ve added you to their Contacts list
 
 IM support
 --------------------------------------------------------------------------------
