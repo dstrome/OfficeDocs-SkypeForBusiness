@@ -2,7 +2,7 @@
 title: Overview of Microsoft Teams | Microsoft Support
 author: LolaJacobsen
 ms.author: lolaj
-manager: serdars
+manager: lolaj
 ms.date: 09/25/2017
 ms.topic: article
 ms.service: msteams
@@ -59,7 +59,7 @@ Different groups have various needs, based on their functional role and workstyl
 
 Here are common use cases for each application in Office 365. For detailed usage guidance, visit the [FastTrack Productivity Library](https://go.microsoft.com/fwlink/?linkid=854630).
 
-![](media/Overview_of_Microsoft_Teams_image1.png)
+![Microsoft Teams icon.](media/Overview_of_Microsoft_Teams_image1.png)
 
 -   Leveraged by users and teams who are looking to collaborate in real-time with the same group of people.
 
@@ -67,7 +67,7 @@ Here are common use cases for each application in Office 365. For detailed usage
 
 -   Allows Users looking to connect a wide range of tools into their workspace (such as Planner, Power BI, GitHub, etc.).
 
-![](media/Overview_of_Microsoft_Teams_image2.png)
+![Microsoft Outlook icon.](media/Overview_of_Microsoft_Teams_image2.png)
 
 -   Leveraged by users who prefer to collaborate in the familiar environment of email and/or a more formal, structured manner.
 
@@ -75,7 +75,7 @@ Here are common use cases for each application in Office 365. For detailed usage
 
 -   Communicates and connects with users who are outside of immediate workgroups or organizations.
 
-![](media/Overview_of_Microsoft_Teams_image3.png)
+![Yammer icon.](media/Overview_of_Microsoft_Teams_image3.png)
 
 -   Leveraged to help connect users across the organization to organize around communities of practice and share best practices.
 
@@ -85,7 +85,7 @@ Here are common use cases for each application in Office 365. For detailed usage
 
 -   Ignites your frontline workforce to share and receive knowledge and expertise
 
-![](media/Overview_of_Microsoft_Teams_image4.png)
+![Skype for Business icon.](media/Overview_of_Microsoft_Teams_image4.png)
 
 -   Leveraged for real-time communication and collaboration both internally and externally with customers/partners.
 
@@ -94,7 +94,7 @@ Here are common use cases for each application in Office 365. For detailed usage
 -   Offers enterprise telephony functionality.
 
 
-![](media/Overview_of_Microsoft_Teams_image5.png)
+![Microsoft SharePoint icon.](media/Overview_of_Microsoft_Teams_image5.png)
 
 -   Leveraged for sites and portals (e.g. company news & announcements, search, and document collaboration).
 
@@ -103,3 +103,11 @@ Here are common use cases for each application in Office 365. For detailed usage
 -   Full-powered SharePoint team site automatically provisioned for every Microsoft Team for file storage, team news, pages, lists and more.
 
 -   See [How SharePoint Online and OneDrive for Business interact with Teams](SharePoint-OneDrive-interact.md)
+
+## What happened to the Teams admin FAQ?
+
+While the Teams Admin FAQ was handy when we first released Teams, it quickly became a "junk drawer" that made it hard to find anything specific. So we busted apart the FAQ and incorporated its valuable information into the Teams documentation that you're looking at right now. You'll find all the information that was in the FAQ in this documentation, in context.
+
+If you're looking for something that you can't find here, please tell us about it in the **Comments** section below. We try to respond to your comments within 24 hours.
+
+By the way, we **do** still have an FAQ for the [Journey from Skype for Business to Microsoft Teams](FAQ-journey.md). 

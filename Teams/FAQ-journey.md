@@ -2,7 +2,7 @@
 title: FAQ - Journey from Skype for Business to Microsoft Teams
 author: LolaJacobsen
 ms.author: lolaj
-manager: serdars
+manager: lolaj
 ms.date: 09/25/2017
 ms.topic: article
 ms.service: msteams
@@ -27,6 +27,8 @@ As users are working on more teams, we see the opportunity to more seamlessly in
 ### Is there a firm deadline by which customers need to move from Skype for Business Online to Teams? 
 
 We will make our roadmap for Microsoft Teams available, so customers can assess the capabilities for Teams relative to their needs and plan their move to Teams. Customers can determine the timing for moving to Teams that best meets their needs.
+
+A great way to stay on top of news about the journey from Skype for Business to Teams is the [Skype for Busineses to Microsoft Teams Capabilities Roadmap](https://aka.ms/skype2teamsroadmap) - a downloadable PDF (in English only, at least for now) that gives Microsoft's current expectations about Skype for Business capabilities coming to Teams.
 
 ### What is the future of Skype for Business Server? 
 

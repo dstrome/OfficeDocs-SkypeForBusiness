@@ -2,7 +2,7 @@
 title: Best practices for user feedback methods in Microsoft Teams | Microsoft Support
 author: LolaJacobsen
 ms.author: lolaj
-manager: serdars
+manager: lolaj
 ms.date: 09/25/2017
 ms.topic: article
 ms.service: msteams
@@ -15,7 +15,7 @@ Best practices for user feedback methods in Microsoft Teams
 
 The adoption of a new collaboration experience is about changing the behavior of your users. Human change requires training, encouragement and positive examples. It is also critical for people to feel heard during the transition. If you have previously established successful feedback methods in your organization, consider expanding them to include your Teams implementation. If you have not done this before, consider one of the following approaches:
 
--   Creating a public team within Microsoft Teams that any user can join to provide feedback on their experience (keeping in mind that public groups is currently only limited to 999 users).
+-   Creating a public team within Microsoft Teams that any user can join to provide feedback on their experience (keeping in mind that public groups is limited to 2500 users).
 
 -   Using Yammer to provide an open community for best practices and support for the experience.
 

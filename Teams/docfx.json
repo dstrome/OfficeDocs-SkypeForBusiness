@@ -20,7 +20,8 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif"
         ],
         "exclude": [
           "**/obj/**",
@@ -31,7 +32,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "layout": "Conceptual",
+      "searchScope": ["Microsoft Teams"],      
       "breadcrumb_path": "/microsoftteams/breadcrumb/toc.json",
        "extendBreadcrumb": "true"
     },
